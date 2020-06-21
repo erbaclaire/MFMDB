@@ -1,6 +1,11 @@
 # My Favorite Murder: The Database
 
-![](index\index.png)
+![](images/index.png)
+![](images/navigation.png)
+![](images/add_episode.png)
+![](images/search_suspect.png)
+![](images/summary_stats.png)
+![](images/victim_demographic_stats.png)
 
 My Favorite Murder is a podcast where the two hosts each tell the story of a murder each week. The hosts, in the beginning, would forget which murders they had already covered which sometimes lead to the re-telling of a murder. This database was created for the purpose of being able to see which cases were already covered. Users can add or remove information on the murders already covered by the podcast including the episode details, the case name, crimes, suspects, victims, trials, evidence, and more. There are then search functions to learn more about the details of cases. Finally, there are summary statistics on the types of cases covered. One of the purposes of this was to observe what types of victims had their stories told. The hosts of the podcast often talk about the fact that if the victim isn't a white woman that the story is not known. Or that if the victim is a POC or a sex worker, the case is not given as much attention. This is the idea of the "Less Dead." Yet, if you look at the cases covered by the podcast, the hosts predominantly speak about the murders of white women. 
 
